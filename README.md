@@ -1,2 +1,2 @@
-# HackTheMidlands19
-My project for HTM 2019, trying to use a neural network to determine the quality of journal article submissions
+# AstonHack19
+I'm not an Aston student, so maybe I simply don't understand the hatred of the Aston geese. However, as a psychologist, this seems like the product of prejudice. Stereotypes are reinforced by negative experience with a group, so my hack aims to improve human-goose relations on Aston campus by using AR to boost the number of positive goose-related experiences the students, staff, and visitors here have. Goose Guide is your anserine companion, here to guide you through the tangled mess of corridors and rooms of Aston University. No longer will our guests get lost on their way to events, and our virtual geese friends will help us achieve that.
